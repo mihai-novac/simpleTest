@@ -38,28 +38,28 @@ public class SimpleTest {
 //         Assert.assertEquals(1, 0);
 //     }
 
-// 	@Test
-//     public void sometimesPass1()
-//     {
-//         Random random = new Random();
-//         int randomNumber = random.nextInt(100);
-//         boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
-//         Assert.assertEquals(smallerThanFiftee, true);
-// // 	Assert.assertEquals(true, true);
-//     }
+    @Test
+    public void sometimesPass1()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFiftee, true);
+// 	Assert.assertEquals(true, true);
+    }
 
-//      @Test
-//     public void sometimesPass2()
-//     {
-//         Random random = new Random();
-//         int randomNumber = random.nextInt(100);
-//         boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
-//         Assert.assertEquals(smallerThanFiftee, true);
-// // 	Assert.assertEquals(true, true);
-//     }
+    @Test
+    public void sometimesPass2()
+    {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
+        Assert.assertEquals(smallerThanFiftee, true);
+// 	Assert.assertEquals(true, true);
+    }
 	
-	@Test
-	@Ignore
+    @Test
+    @Ignore
     public void ignored1()
     {
         Random random = new Random();
@@ -68,8 +68,8 @@ public class SimpleTest {
         Assert.assertEquals(smallerThanFiftee, true);	
     }
 	
-	@Test
-	@Ignore
+    @Test
+    @Ignore
     public void ignored2()
     {
         Random random = new Random();
