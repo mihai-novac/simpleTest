@@ -43,7 +43,7 @@ public class SimpleTest {
         Assert.assertEquals(1, 1);
     }
 	@Test  
-   public void alwaysPass7)
+   public void alwaysPass7()
    {
        Assert.assertEquals(1, 1);
    }
