@@ -121,7 +121,7 @@ public class SimpleTest {
     @Test
     public void alwaysPass22()
     {
-        Assert.assertEqual(1, 1);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysPass23()
