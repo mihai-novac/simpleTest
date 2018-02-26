@@ -502,7 +502,7 @@ public class SimpleTest {
     public void alwaysPass98()
     {
         Assert.assertEquals(1, 1);
-    } */
+    }*/
 	
 
 //     @Test
