@@ -1,7 +1,7 @@
 import junit.framework.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import java.util.Random;
-import org.junit.Ignore;
 
  
 /**  
@@ -26,12 +26,12 @@ public class SimpleTest {
        Assert.assertEquals(1, 1);
    }
 
-  /* @Test
+  @Test
     public void alwaysPass4()
     {
         Assert.assertEquals(1, 1);
     }
-	@Test  
+	/* @Test
    public void alwaysPass5()
    {
        Assert.assertEquals(1, 1);
