@@ -522,7 +522,7 @@ public class SimpleTest {
 //         Assert.assertEquals(1, 0);
 //     }
 
-    @Test
+/*    @Test
     public void sometimesPass1()
     {
         Random random = new Random();
@@ -540,7 +540,7 @@ public class SimpleTest {
         boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
         Assert.assertEquals(smallerThanFiftee, true);
 // 	Assert.assertEquals(true, true);
-    }
+    }*/
 	
     @Test
     @Ignore
