@@ -29,18 +29,14 @@ public class SimpleTest {
   @Test
     public void alwaysPass4()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
    @Test
    public void alwaysFail5()
    {
        Assert.assertEquals(1, 2);
    }
-	@Test
-   public void alwaysFail6()
-   {
-       Assert.assertEquals(1, 2);
-   }
+
 
   /*  @Test
     public void alwaysPass6()
