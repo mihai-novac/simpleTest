@@ -27,12 +27,12 @@ public class SimpleTest {
    }
 
   @Test
-    public void alwaysPass41()
+    public void alwaysPass4()
     {
         Assert.assertEquals(1, 1);
     }
    @Test
-   public void alwaysFail5()
+   public void alwaysFail51()
    {
        Assert.assertEquals(1, 2);
    }
