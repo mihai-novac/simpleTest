@@ -36,8 +36,17 @@ public class SimpleTest {
    {
        Assert.assertEquals(1, 2);
    }
-
-
+	
+  @Test
+   public void alwaysFail61()
+   {
+       Assert.assertEquals(1, 2);
+   }
+  @Test
+   public void alwaysFail71()
+   {
+       Assert.assertEquals(1, 2);
+   }
  
 
 //     @Test
