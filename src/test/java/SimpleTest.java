@@ -5,7 +5,7 @@ import java.util.Random;
 
  
 /**  
- * Created by gadiel on 15/11/2016..                         
+ * Created by radiel on 15/11/2016..                         
  */  
 public class SimpleTest {
 	
