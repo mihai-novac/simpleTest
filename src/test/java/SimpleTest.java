@@ -1,4 +1,10 @@
+import junit.framework.Assert;
+                import org.junit.Ignore;
+                import org.junit.Test;
+                import java.util.Random;
+                
 
+                
                 /**  
                  * Created by dshmaya on 15/11/2017 ..0
                 */  
@@ -68,6 +74,3 @@
                         Assert.assertEquals(smallerThanFiftee, true);
                     }
                 }
-
-
-
