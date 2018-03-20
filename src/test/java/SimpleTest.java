@@ -48,7 +48,11 @@ import junit.framework.Assert;
                     {
                         Assert.assertEquals(1, 1);
                     }
-                 
+                 @Test
+                   public void alwaysFail71()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
 
                     @Test
                     @Ignore
