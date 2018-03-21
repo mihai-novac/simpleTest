@@ -30,6 +30,7 @@ import junit.framework.Assert;
 
 
 
+
                   @Test
                     public void alwaysPass4()
                     {
@@ -40,9 +41,7 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
-                
 
-                
 
                   @Test
                     public void alwaysPass6()
