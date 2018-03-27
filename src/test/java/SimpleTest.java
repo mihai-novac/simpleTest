@@ -48,17 +48,6 @@ import junit.framework.Assert;
                    }
 
 
-                  @Test
-                    public void alwaysPass6()
-                    {
-                        Assert.assertEquals(1, 1);
-                    }
-                  @Test
-                    public void alwaysPass7()
-                    {
-                        Assert.assertEquals(1, 1);
-                    }
-                 
                     @Test
                     @Ignore
                     public void ignored1()
