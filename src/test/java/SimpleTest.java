@@ -29,8 +29,6 @@ import junit.framework.Assert;
                    }
 
 
-
-
                   @Test
                     public void alwaysPass4()
                     {
@@ -38,7 +36,7 @@ import junit.framework.Assert;
                     }
                   
                   @Test  
-                   public void alwaysPass4()
+                   public void alwaysPass5()
                    {
                        Assert.assertEquals(1, 1);
                    }
