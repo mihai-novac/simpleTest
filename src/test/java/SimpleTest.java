@@ -46,7 +46,31 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
-
+                  @Test
+                   public void alwaysFail6()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  @Test
+                   public void alwaysFail7()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  @Test
+                   public void alwaysFail8()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  @Test
+                   public void alwaysFail9()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  @Test
+                   public void alwaysFail10()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
 
                     @Test
                     @Ignore
