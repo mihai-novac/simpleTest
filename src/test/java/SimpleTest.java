@@ -7,7 +7,8 @@ import junit.framework.Assert;
                 
                 /**  
                  ** Created by dshmaya on 15/11/2017 ...03
-                */  
+                 * Created by dshmaya on 15/11/2017 ...03
+                */
                 public class SimpleTest {
                                 
                    @Test  
@@ -78,7 +79,7 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
-                 
+
                   @Test
                    public void alwaysFail13()
                    {
