@@ -95,6 +95,28 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
+                  @Test
+                   public void alwaysFail16()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  @Test
+                   public void alwaysFail17()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  
+                  @Test
+                   public void alwaysFail18()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
+                  
+                  @Test
+                   public void alwaysFail19()
+                   {
+                       Assert.assertEquals(1, 2);
+                   }
                  
                     @Test
                     @Ignore
