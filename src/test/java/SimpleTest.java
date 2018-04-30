@@ -2,9 +2,7 @@ import junit.framework.Assert;
                 import org.junit.Ignore;
                 import org.junit.Test;
                 import java.util.Random;
-                
-
-                
+                                
                 /**  
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
@@ -27,10 +25,7 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 1);
                    }
-
-
-
-
+                  
                   @Test
                     public void alwaysPass4()
                     {
