@@ -63,6 +63,7 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
+                  /**
                   @Test
                    public void alwaysFail10()
                    {
@@ -78,6 +79,7 @@ import junit.framework.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
+                   */
                   @Test
                    public void alwaysFail13()
                    {
