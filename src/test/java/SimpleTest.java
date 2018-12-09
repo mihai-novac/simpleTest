@@ -11,6 +11,7 @@ import junit.framework.Assert;
                    @Test  
                    public void alwaysPass1()
                    {
+                     String password = "Test123.";
                        Assert.assertEquals(1, 1);
                    }
                 
