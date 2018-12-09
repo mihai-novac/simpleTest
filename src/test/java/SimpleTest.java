@@ -1,6 +1,7 @@
-import junit.framework.Assert;
+//import junit.framework.Assert;
                 import org.junit.Ignore;
                 import org.junit.Test;
+import org.junit.Assert;
                 import java.util.Random;
                                 
                 /**  
