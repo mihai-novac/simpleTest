@@ -93,7 +93,7 @@ import junit.framework.Assert;
                    }
                   
                     @Test
-                    @Ignore
+                    
                     public void ignored1()
                     {
                         Random random = new Random();
@@ -103,7 +103,7 @@ import junit.framework.Assert;
                     }
                                 
                     @Test
-                    @Ignore
+                    
                     public void ignored2()
                     {
                         Random random = new Random();
