@@ -64,22 +64,22 @@ import org.junit.Assert;
                   @Test
                    public void alwaysFail10()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 0);
                    }
                   @Test
                    public void alwaysFail11()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                   @Test
                    public void alwaysFail12()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                   @Test
                    public void alwaysFail13()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 3);
                    }
                   
                     @Test
