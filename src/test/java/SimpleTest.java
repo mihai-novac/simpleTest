@@ -92,8 +92,7 @@ import org.junit.Assert;
                         Assert.assertEquals(smallerThanFiftee, true);            
                     }
                                 
-                    @Test
-                    @Ignore
+                   
                     public void ignored2()
                     {
                         Random random = new Random();
