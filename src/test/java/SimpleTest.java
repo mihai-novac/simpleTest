@@ -13,7 +13,7 @@ import org.junit.Assert;
                    @Test  
                    public void alwaysPass1()
                    {
-                     String password = "Test123.";
+                    
                        Assert.assertEquals(1, 1);
                    }
                 
@@ -37,7 +37,7 @@ import org.junit.Assert;
                    @Test
                    public void alwaysFail5()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
 
 
@@ -54,17 +54,17 @@ import org.junit.Assert;
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 5);
                    }
                   @Test
                    public void alwaysFail91()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 4);
                    }
                   @Test
                    public void alwaysFail10()
                    {
-                       Assert.assertEquals(1, 0);
+                       Assert.assertEquals(1, 5);
                    }
                   @Test
                    public void alwaysFail11()
@@ -83,7 +83,6 @@ import org.junit.Assert;
                    }
                   
                     @Test
-                    
                     public void ignored1()
                     {
                         Random random = new Random();
@@ -92,7 +91,7 @@ import org.junit.Assert;
                         Assert.assertEquals(smallerThanFiftee, true);            
                     }
                                 
-                   
+                   @Test
                     public void ignored2()
                     {
                         Random random = new Random();
@@ -100,8 +99,7 @@ import org.junit.Assert;
                         boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
                         Assert.assertEquals(smallerThanFiftee, true);
                     }
-                  @Test
-			
+    @Test	
     public void sometimesPass888200()
     {
 
@@ -109,13 +107,10 @@ import org.junit.Assert;
          int randomNumber = random.nextInt(100);
          boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
          Assert.assertEquals(smallerThanFiftee, true);
-        try {
-            Assert.assertEquals(true, true);
-        }catch (NullPointerException w){
-		}
+        
     }
-				@Test
 			
+    @Test
     public void sometimesPass888198()
     {
 
@@ -123,9 +118,5 @@ import org.junit.Assert;
          int randomNumber = random.nextInt(100);
          boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
          Assert.assertEquals(smallerThanFiftee, true);
-        try {
-            Assert.assertEquals(true, true);
-        }catch (NullPointerException w){
-		}
-                }
-		}
+     }
+}
