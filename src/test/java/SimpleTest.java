@@ -83,7 +83,7 @@ import org.junit.Assert;
                    }
                   
                     @Test
-                    @Ignore
+                    
                     public void ignored1()
                     {
                         Random random = new Random();
@@ -101,7 +101,7 @@ import org.junit.Assert;
                         Assert.assertEquals(smallerThanFiftee, true);
                     }
                   @Test
-			@Ignore
+			
     public void sometimesPass888200()
     {
 
@@ -115,7 +115,7 @@ import org.junit.Assert;
 		}
     }
 				@Test
-			@Ignore
+			
     public void sometimesPass888198()
     {
 
