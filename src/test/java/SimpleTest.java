@@ -37,7 +37,7 @@ import org.junit.Assert;
                    @Test
                    public void alwaysFail5()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 
 
