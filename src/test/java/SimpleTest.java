@@ -59,7 +59,7 @@ import org.junit.Assert;
                   @Test
                    public void alwaysFail91()
                    {
-                       Assert.assertEquals(1, 4);
+                       Assert.assertEquals(1, 3);
                    }
                   @Test
                    public void alwaysFail10()
@@ -84,6 +84,7 @@ import org.junit.Assert;
                    }
                   
                     @Test
+                    @Ignore
                     public void ignored1()
                     {
                         Random random = new Random();
@@ -93,6 +94,7 @@ import org.junit.Assert;
                     }
                                 
                    @Test
+                   @Ignore
                     public void ignored2()
                     {
                         Random random = new Random();
