@@ -34,6 +34,11 @@ import org.junit.Assert;
                     {
                         Assert.assertEquals(1, 1);
                     }
+                    @Test
+                    public void alwaysPassA()
+                    {
+                        Assert.assertEquals(1, 2);
+                    }
                    @Test
                    public void alwaysFail5()
                    {
