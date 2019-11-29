@@ -65,6 +65,7 @@ import org.junit.Assert;
                    public void alwaysFail10()
                    {
                        Assert.assertEquals(1, 5);
+                       System.out.println("Neata!");
                    }
                   @Test
                    public void alwaysFail11()
