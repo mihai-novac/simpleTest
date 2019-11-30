@@ -64,7 +64,7 @@ import org.junit.Assert;
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 6);
+                       Assert.assertEquals(1, 8);
                    }
                   @Test
                    public void alwaysFail91()
