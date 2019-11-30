@@ -32,7 +32,7 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass4()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
                     @Test
                     public void alwaysPassA()
