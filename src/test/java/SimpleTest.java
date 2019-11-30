@@ -54,7 +54,7 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass6()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
                     @Test
                     public void alwaysPassC()
