@@ -54,7 +54,7 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass6()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                   @Test
                     public void alwaysPass7()
@@ -64,7 +64,7 @@ import org.junit.Assert;
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 5);
+                       Assert.assertEquals(1, 6);
                    }
                   @Test
                    public void alwaysFail91()
