@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="Simplemente">
+    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="SimpleTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterDir="false" />
     </list>
@@ -31,14 +31,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="88" />
-          <entry key="txt" value="128" />
+          <entry key="java" value="90" />
+          <entry key="txt" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="88" />
-          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="JAVA" value="90" />
+          <entry key="PLAIN_TEXT" value="135" />
         </counts>
       </usages-collector>
     </session>
@@ -60,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="353">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,9 +82,9 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="1 &lt;iulia.andreicut@microfocus.com&gt;" />
+        <option value="1.1@microfocus.com" />
         <option value="iulia-andreicut &lt;iulia.andreicut@hpe.com&gt;" />
         <option value="1" />
-        <option value="1.1@microfocus.com" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -157,7 +157,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575152664760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575152885619" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -336,7 +336,7 @@
       <workItem from="1479211924988" duration="2526000" />
       <workItem from="1575012291878" duration="3337000" />
       <workItem from="1575032496987" duration="1898000" />
-      <workItem from="1575124586347" duration="5249000" />
+      <workItem from="1575124586347" duration="5768000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1479212026082</created>
@@ -464,16 +464,26 @@
       <option name="project" value="LOCAL" />
       <updated>1575152341900</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="SimpleTest">
+      <created>1575152856081</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575152856081</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="SimpleTest_alwaysPass1 - 2019.11.29 at 09h 25m 23s.xml">
       <configuration name="SimpleTest.alwaysPass1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SimpleTest_alwaysPass1 - 2019.12.01 at 00h 24m 07s.xml">
+      <configuration name="SimpleTest.alwaysPass1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13113000" />
+    <option name="totallyTimeSpent" value="13632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
@@ -488,16 +498,16 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32964823" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32938856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37485972" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37485972" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938856" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -528,7 +538,8 @@
     <MESSAGE value="This is just a simple test" />
     <MESSAGE value="simplemente" />
     <MESSAGE value="Simplemente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simplemente" />
+    <MESSAGE value="SimpleTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleTest" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -544,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="353">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -29,8 +29,14 @@ import org.junit.Assert;
                    {
                        Assert.assertEquals(1, 2);
                    }
-                  
-                  @Test
+
+                    @Test
+                    public void alwaysPassD()
+                    {
+                        Assert.assertEquals(1, 2);
+                    }
+
+                    @Test
                     public void alwaysPass4()
                     {
                         Assert.assertEquals(1, 3);
