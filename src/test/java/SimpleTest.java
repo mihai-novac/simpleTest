@@ -21,7 +21,8 @@ import org.junit.Assert;
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
+                        System.out.println("proba");
                     }
                    @Test  
                    public void alwaysPass3()
