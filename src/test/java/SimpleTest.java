@@ -104,6 +104,12 @@ import org.junit.Assert;
                    {
                        Assert.assertEquals(1, 3);
                    }
+                    @Test
+                    public void alwaysFailE()
+                    {
+                        Assert.assertEquals(1, 4);
+                        System.out.println("Neata2!");
+                    }
                   
                     @Test
                     @Ignore
