@@ -52,6 +52,14 @@ import org.junit.Assert;
                         Assert.assertEquals(1, 1);
                     }
                     @Test
+                    public void alwaysPassG()
+                    {
+                        Assert.assertEquals(1, 7);
+                        System.out.println("proba7777");
+
+
+                    }
+                    @Test
                     public void alwaysPassF()
                     {
                         Assert.assertEquals(1, 3);
