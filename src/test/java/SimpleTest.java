@@ -14,7 +14,7 @@ import org.junit.Assert;
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 
@@ -27,29 +27,29 @@ import org.junit.Assert;
                    @Test  
                    public void alwaysPass3()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
 
                     @Test
                     public void alwaysPass4()
                     {
-                        Assert.assertEquals(1, 3);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassA()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassB()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                    @Test
                    public void alwaysFail5()
@@ -61,12 +61,12 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass6()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassC()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                   @Test
                     public void alwaysPass7()
