@@ -33,7 +33,7 @@ import org.junit.Assert;
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 9);
+                        Assert.assertEquals(1, 8);
                     }
 
                     @Test
