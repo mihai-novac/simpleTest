@@ -14,7 +14,7 @@ import org.junit.Assert;
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 
@@ -27,7 +27,7 @@ import org.junit.Assert;
                    @Test  
                    public void alwaysPass3()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
 
                     @Test
