@@ -29,7 +29,7 @@ import org.junit.Assert;
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                 
 
