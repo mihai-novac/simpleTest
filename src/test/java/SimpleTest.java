@@ -14,14 +14,14 @@ import org.junit.Assert;
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                 
 
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 8);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba9");
                     }
                    @Test  
@@ -33,18 +33,18 @@ import org.junit.Assert;
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 8);
+                        Assert.assertEquals(1, 1);
                     }
 
                     @Test
                     public void alwaysPass4()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassA()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassB()
@@ -92,7 +92,7 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass7()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 3);
                     }
                  @Test
                    public void alwaysFail81()
