@@ -14,14 +14,14 @@ import org.junit.Assert;
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 9);
+                        Assert.assertEquals(1, 8);
                         System.out.println("proba9");
                     }
                    @Test  
