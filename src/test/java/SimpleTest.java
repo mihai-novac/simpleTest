@@ -36,7 +36,7 @@ import org.junit.Assert;
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba9");
                     }
                    @Test  
