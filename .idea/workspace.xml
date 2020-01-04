@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="david milstein">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="ohad2">
+      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterDir="false" />
     </list>
     <ignored path="SimpleTests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,15 +34,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="139" />
-          <entry key="txt" value="293" />
+          <entry key="java" value="141" />
+          <entry key="txt" value="298" />
           <entry key="xml" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="139" />
-          <entry key="PLAIN_TEXT" value="293" />
+          <entry key="JAVA" value="141" />
+          <entry key="PLAIN_TEXT" value="298" />
           <entry key="XML" value="26" />
         </counts>
       </usages-collector>
@@ -77,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+            <state relative-caret-position="268">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1280#1281#0" expanded="true" />
@@ -442,7 +442,7 @@
       <workItem from="1575124586347" duration="8603000" />
       <workItem from="1575203732588" duration="5367000" />
       <workItem from="1575270551719" duration="3196000" />
-      <workItem from="1578175013863" duration="2052000" />
+      <workItem from="1578175013863" duration="2688000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1479212026082</created>
@@ -696,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578178655168</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ohad2">
+      <created>1578179974606</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1578179974606</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -708,10 +715,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27082000" />
+    <option name="totallyTimeSpent" value="27718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1932" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26655984" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -773,7 +781,8 @@
     <MESSAGE value="sarah gabriel" />
     <MESSAGE value="david gruzman" />
     <MESSAGE value="david milstein" />
-    <option name="LAST_COMMIT_MESSAGE" value="david milstein" />
+    <MESSAGE value="ohad2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ohad2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -802,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        <state relative-caret-position="268">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1280#1281#0" expanded="true" />
