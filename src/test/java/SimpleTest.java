@@ -97,7 +97,7 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass6()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
                     @Test
                     public void alwaysPassC()
@@ -107,12 +107,12 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass7()
                     {
-                        Assert.assertEquals(1, 3);
+                        Assert.assertEquals(1, 1);
                     }
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 8);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail91()
@@ -143,7 +143,7 @@ import org.junit.Assert;
                     @Test
                     public void alwaysFailE()
                     {
-                        Assert.assertEquals(1, 4);
+                        Assert.assertEquals(1, 1);
                         System.out.println("Neata2!");
                     }
                   
