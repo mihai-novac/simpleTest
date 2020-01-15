@@ -112,7 +112,7 @@ import org.junit.Assert;
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 3);
                    }
                   @Test
                    public void alwaysFail91()
