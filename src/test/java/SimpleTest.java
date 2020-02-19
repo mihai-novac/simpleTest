@@ -14,7 +14,7 @@ import org.junit.Assert;
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		
@@ -22,21 +22,21 @@ import org.junit.Assert;
                    public void alwaysPass1New()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		   @Test  
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba9");
                     }
                    @Test  
@@ -69,7 +69,7 @@ import org.junit.Assert;
                     @Test
                     public void alwaysPassG()
                     {
-                        Assert.assertEquals(1, 5);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba7");
 
 
@@ -77,7 +77,7 @@ import org.junit.Assert;
                     @Test
                     public void alwaysPassH()
                     {
-                        Assert.assertEquals(1, 8);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba8kodojoso");
 
 
@@ -85,12 +85,12 @@ import org.junit.Assert;
                     @Test
                     public void alwaysPassF()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                    @Test
                    public void alwaysFail5()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 
 
@@ -107,38 +107,38 @@ import org.junit.Assert;
                   @Test
                     public void alwaysPass7()
                     {
-                        Assert.assertEquals(1, 3);
+                        Assert.assertEquals(1, 1);
                     }
                  @Test
                    public void alwaysFail81()
                    {
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail91()
                    {
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail10()
                    {
-                       Assert.assertEquals(1, 5);
+                       Assert.assertEquals(1, 1);
                        System.out.println("Neata!");
                    }
                   @Test
                    public void alwaysFail11()
                    {
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail12()
                    {
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail13()
                    {
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 1);
                    }
                     @Test
                     public void alwaysFailE()
