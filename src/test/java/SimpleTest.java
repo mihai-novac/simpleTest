@@ -166,6 +166,7 @@ import org.junit.Assert;
                         boolean smallerThanFiftee =  randomNumber < 50 ? true : false;
                         Assert.assertEquals(smallerThanFiftee, true);
                     }
+			@Ignore
     @Test	
     public void sometimesPass888200()
     {
@@ -176,7 +177,7 @@ import org.junit.Assert;
          Assert.assertEquals(smallerThanFiftee, true);
         
     }
-			
+	@Ignore		
     @Test
     public void sometimesPass888198()
     {
