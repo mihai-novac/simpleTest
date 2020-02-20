@@ -15,7 +15,7 @@ import org.junit.Assert;
                    {
                     
                        Assert.assertEquals(1, 1);
-			   Assert.assertEquals(1, 1);
+			   Assert.assertEquals(1, 4);
                    }
 			
 		
