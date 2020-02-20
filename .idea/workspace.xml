@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="SimpleTest">
+    <list default="true" id="de6af2e0-012e-468f-a9f8-d66d3ef9358c" name="Default" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SimpleTest.java" afterDir="false" />
     </list>
@@ -39,15 +39,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="153" />
-          <entry key="txt" value="330" />
+          <entry key="java" value="156" />
+          <entry key="txt" value="451" />
           <entry key="xml" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="153" />
-          <entry key="PLAIN_TEXT" value="330" />
+          <entry key="JAVA" value="156" />
+          <entry key="PLAIN_TEXT" value="451" />
           <entry key="XML" value="26" />
         </counts>
       </usages-collector>
@@ -87,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1280#1281#0" expanded="true" />
@@ -155,8 +155,11 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="1 &lt;iulia.andreicut@microfocus.com&gt;" />
+        <option value="Iulia &lt;iulia.andreicut@microfocus.com&gt;" />
+        <option value="I A &lt;iulia.andreicut@microfocus.com&gt;" />
         <option value="1.1@microfocus.com" />
+        <option value="I A" />
+        <option value="1 &lt;iulia.andreicut@microfocus.com&gt;" />
         <option value="iulia-andreicut &lt;iulia.andreicut@hpe.com&gt;" />
         <option value="1" />
       </list>
@@ -473,7 +476,7 @@
       <workItem from="1578399239193" duration="34000" />
       <workItem from="1579079603116" duration="1478000" />
       <workItem from="1580802492815" duration="652000" />
-      <workItem from="1581421928003" duration="2497000" />
+      <workItem from="1581421928003" duration="4631000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1479212026082</created>
@@ -783,7 +786,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582156565264</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="1">
+      <created>1582157932940</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1582157932940</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Simple Test">
+      <created>1582186813278</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1582186813278</updated>
+    </task>
+    <task id="LOCAL-00047" summary="1">
+      <created>1582187323270</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1582187323270</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -795,7 +819,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34227000" />
+    <option name="totallyTimeSpent" value="36361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -816,8 +840,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28777778" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" visible="true" weight="0.28777778" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.28777778" />
       <window_info anchor="bottom" id="Application Servers" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -839,9 +863,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="a" />
-    <MESSAGE value="add tests" />
-    <MESSAGE value="fix error" />
     <MESSAGE value="Fail91" />
     <MESSAGE value="*ail*" />
     <MESSAGE value="YsPa" />
@@ -863,8 +884,11 @@
     <MESSAGE value="ohad2" />
     <MESSAGE value="defect #1003" />
     <MESSAGE value="SimpleTest update" />
+    <MESSAGE value="SimpleTest commit" />
     <MESSAGE value="SimpleTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleTest" />
+    <MESSAGE value="Simple Test" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -893,8 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1280#1281#0" expanded="true" />
