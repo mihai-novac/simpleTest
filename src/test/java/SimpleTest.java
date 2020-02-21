@@ -5,18 +5,20 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Random;
-                                
+
                 /**  
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
                 public class SimpleTest {
+                    private int a = 1;
+                    private int b = 2;
                  
                                 
                    @Test  
                    public void alwaysPass1()
                    {
-                    
-                       Assert.assertEquals(1, 1);
+
+                       Assert.assertEquals(a, b);
                        Assert.assertEquals(1, 1);
                    }
 			
