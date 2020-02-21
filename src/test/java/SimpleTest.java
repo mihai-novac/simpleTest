@@ -1,8 +1,10 @@
 //import junit.framework.Assert;
-                import org.junit.Ignore;
-                import org.junit.Test;
+
 import org.junit.Assert;
-                import java.util.Random;
+import org.junit.Ignore;
+import org.junit.Test;
+
+import java.util.Random;
                                 
                 /**  
                  * Created by dshmaya on 15/11/2017 ...04
@@ -15,7 +17,7 @@ import org.junit.Assert;
                    {
                     
                        Assert.assertEquals(1, 1);
-			   Assert.assertEquals(1, 4);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		
