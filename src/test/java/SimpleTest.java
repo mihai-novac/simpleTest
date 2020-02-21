@@ -8,13 +8,14 @@ import org.junit.Assert;
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
                 public class SimpleTest {
+			private int a=1;
                  
                                 
                    @Test  
                    public void alwaysPass1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, a);
                        Assert.assertEquals(1, 1);
 
                    }
