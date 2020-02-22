@@ -11,7 +11,7 @@ import java.util.Random;
                 */  
                 public class SimpleTest {
                     private int a = 3;
-                    private int b = 2;
+                    private int b =3;
                  
                                 
                    @Test  
