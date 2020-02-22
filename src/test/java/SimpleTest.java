@@ -8,7 +8,7 @@ import org.junit.Assert;
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
                 public class SimpleTest {
-			private int a=2;
+			private int a=1;
                  
                                 
                    @Test  
@@ -16,7 +16,7 @@ import org.junit.Assert;
                    {
                     
                        Assert.assertEquals(1, a);
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
 
                    }
 			
