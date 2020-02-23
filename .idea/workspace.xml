@@ -38,14 +38,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="210" />
+          <entry key="java" value="214" />
           <entry key="txt" value="356" />
           <entry key="xml" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="210" />
+          <entry key="JAVA" value="214" />
           <entry key="PLAIN_TEXT" value="356" />
           <entry key="XML" value="26" />
         </counts>
@@ -254,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582334212811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582444112556" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -469,34 +469,6 @@
       <workItem from="1578293530101" duration="1848000" />
       <workItem from="1578399239193" duration="34000" />
       <workItem from="1579079603116" duration="863000" />
-    </task>
-    <task id="LOCAL-00002" summary="add tests">
-      <created>1479212701404</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1479212701404</updated>
-    </task>
-    <task id="LOCAL-00003" summary="fix error">
-      <created>1479213275146</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1479213275146</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Fail91">
-      <created>1575020431298</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1575020431298</updated>
-    </task>
-    <task id="LOCAL-00005" summary="*ail*">
-      <created>1575026957127</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1575026957127</updated>
     </task>
     <task id="LOCAL-00006" summary="YsPa">
       <created>1575032693816</created>
@@ -813,7 +785,35 @@
       <option name="project" value="LOCAL" />
       <updated>1582333718028</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="SimpleTest">
+      <created>1582334205473</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1582334205473</updated>
+    </task>
+    <task id="LOCAL-00052" summary="SimpleTest">
+      <created>1582334434035</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1582334434035</updated>
+    </task>
+    <task id="LOCAL-00053" summary="SimpleTest">
+      <created>1582334834734</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1582334834734</updated>
+    </task>
+    <task id="LOCAL-00054" summary="SimpleTest">
+      <created>1582443682692</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1582443682692</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -825,7 +825,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34305000" />
+    <option name="totallyTimeSpent" value="35906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
