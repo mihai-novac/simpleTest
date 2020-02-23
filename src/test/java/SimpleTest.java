@@ -10,7 +10,7 @@ import java.util.Random;
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
                 public class SimpleTest {
-                    private int a = 4;
+                    private int a = 3;
                     private int b =3;
                  
                                 
