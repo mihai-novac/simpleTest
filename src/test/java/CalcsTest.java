@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Calcs {
+public class CalcsTest {
     @Test
     public void alwaysFail()
     {
