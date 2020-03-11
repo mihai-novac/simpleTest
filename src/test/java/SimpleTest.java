@@ -11,7 +11,7 @@ import java.util.Random;
                 */  
                 public class SimpleTest {
                     private int a = 1;
-                    private int b =3;
+                    private int b =2;
                  
                                 
                    @Test  
@@ -27,7 +27,7 @@ import java.util.Random;
                    public void alwaysPass1New()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 3);
                    }
 			
 		   @Test  
