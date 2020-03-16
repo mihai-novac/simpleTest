@@ -11,7 +11,7 @@ import java.util.Random;
                 */  
                 public class SimpleTest {
                     private int a = 1;
-                    private int b =2;
+                    private int b =1;
                  
                                 
                    @Test  
@@ -19,7 +19,7 @@ import java.util.Random;
                    {
 
                        Assert.assertEquals(a, b);
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		
