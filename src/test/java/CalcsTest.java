@@ -5,7 +5,7 @@ public class CalcsTest {
     @Test
     public void alwaysFail()
     {
-        Assert.assertEquals(1, 5);
+        Assert.assertEquals(1, 6);
     }
     @Test
     public void alwaysFail1()
