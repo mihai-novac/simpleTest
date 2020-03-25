@@ -10,6 +10,6 @@ public class CalcsTest {
     @Test
     public void alwaysFail1()
     {
-        Assert.assertEquals(1, 6);
+        Assert.assertEquals(1, 9);
     }
 }
