@@ -74,7 +74,7 @@ import java.util.Random;
                     @Test
                     public void alwaysPassG()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 4);
                         System.out.println("proba7");
 
 
