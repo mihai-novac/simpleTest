@@ -9,7 +9,7 @@ import java.util.Random;
                 /**  
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
-                public class SimpleTest {
+                public class SimpleBlaBlaTest {
                     private int a = 1;
                     private int b =1;
                  
@@ -148,7 +148,7 @@ import java.util.Random;
                     @Test
                     public void alwaysFailE()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 4);
                         System.out.println("Neata2!");
                     }
                   
