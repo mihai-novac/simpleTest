@@ -12,4 +12,9 @@ public class CalcsTest {
     {
         Assert.assertEquals(1, 9);
     }
+    @Test
+    public void alwaysFail()
+    {
+        Assert.assertEquals(1, 6);
+    }
 }
