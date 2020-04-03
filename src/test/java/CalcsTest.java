@@ -13,7 +13,12 @@ public class CalcsTest {
         Assert.assertEquals(1, 9);
     }
     @Test
-    public void alwaysFail()
+    public void alwaysFail2()
+    {
+        Assert.assertEquals(1, 6);
+    }
+    @Test
+    public void alwaysFail3()
     {
         Assert.assertEquals(1, 6);
     }
