@@ -138,7 +138,7 @@ import java.util.Random;
                   @Test
                    public void alwaysFail12()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                   @Test
                    public void alwaysFail13()
@@ -148,7 +148,7 @@ import java.util.Random;
                     @Test
                     public void alwaysFailE()
                     {
-                        Assert.assertEquals(1, 4);
+                        Assert.assertEquals(1, 1);
                         System.out.println("Neata2!");
                     }
                   
