@@ -27,4 +27,9 @@ public class CalcsTest {
     {
         Assert.assertEquals(1, 6);
     }
+    @Test
+    public void alwaysFail5()
+    {
+        Assert.assertEquals(1, 6);
+    }
 }
