@@ -22,4 +22,9 @@ public class CalcsTest {
     {
         Assert.assertEquals(1, 6);
     }
+    @Test
+    public void alwaysFail4()
+    {
+        Assert.assertEquals(1, 6);
+    }
 }
