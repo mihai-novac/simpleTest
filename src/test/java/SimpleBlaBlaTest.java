@@ -127,7 +127,7 @@ import java.util.Random;
                   @Test
                    public void alwaysFail10()
                    {
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                        System.out.println("Neata!");
                    }
                   @Test
