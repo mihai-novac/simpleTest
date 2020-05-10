@@ -18,7 +18,7 @@ import java.util.Random;
                    public void alwaysPass1()
                    {
 
-                       Assert.assertEquals(a, b);
+                       Assert.assertEquals(a, 2);
                        Assert.assertEquals(1, 7);
                    }
 			
