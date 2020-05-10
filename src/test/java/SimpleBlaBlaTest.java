@@ -34,14 +34,14 @@ import java.util.Random;
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                         System.out.println("proba9");
                     }
                    @Test  
@@ -59,12 +59,12 @@ import java.util.Random;
                     @Test
                     public void alwaysPass4()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassA()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassB()
@@ -102,7 +102,7 @@ import java.util.Random;
                   @Test
                     public void alwaysPass6()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassC()
@@ -112,7 +112,7 @@ import java.util.Random;
                   @Test
                     public void alwaysPass7()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
                  @Test
                    public void alwaysFail81()
