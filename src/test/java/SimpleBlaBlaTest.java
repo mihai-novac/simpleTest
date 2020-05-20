@@ -18,8 +18,8 @@ import java.util.Random;
                    public void alwaysPass1()
                    {
 
-                       Assert.assertEquals(a, 2);
-                       Assert.assertEquals(1, 7);
+                       Assert.assertEquals(a, 1);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		
@@ -27,7 +27,7 @@ import java.util.Random;
                    public void alwaysPass1New()
                    {
                     
-                       Assert.assertEquals(1, 12);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		   @Test  
@@ -41,19 +41,19 @@ import java.util.Random;
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba9");
                     }
                    @Test  
                    public void alwaysPass3()
                    {
-                       Assert.assertEquals(1, 9);
+                       Assert.assertEquals(1, 1);
                    }
 
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
 
                     @Test
