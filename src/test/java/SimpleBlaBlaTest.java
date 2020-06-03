@@ -34,7 +34,7 @@ import java.util.Random;
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                 
 public void alwaysPass1New12()
@@ -73,7 +73,7 @@ public void alwaysPass1New12()
                     @Test
                     public void alwaysPassB()
                     {
-                        Assert.assertEquals(1, 5);
+                        Assert.assertEquals(1, 1);
                     }
                     @Test
                     public void alwaysPassG()
