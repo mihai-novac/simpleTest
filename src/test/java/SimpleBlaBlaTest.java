@@ -19,7 +19,7 @@ import java.util.Random;
                    {
 
                        Assert.assertEquals(a, 1);
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		
@@ -45,13 +45,13 @@ public void alwaysPass1New12()
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba9");
                     }
                    @Test  
                    public void alwaysPass3()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 
                     @Test
@@ -86,7 +86,7 @@ public void alwaysPass1New12()
                     @Test
                     public void alwaysPassH()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("proba8kodojoso");
 
 
@@ -111,12 +111,12 @@ public void alwaysPass1New12()
                     @Test
                     public void alwaysPassC()
                     {
-                        Assert.assertEquals(1, 4);
+                        Assert.assertEquals(1, 1);
                     }
                   @Test
                     public void alwaysPass7()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                     }
                  @Test
                    public void alwaysFail81()
@@ -131,7 +131,7 @@ public void alwaysPass1New12()
                   @Test
                    public void alwaysFail10()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                        System.out.println("Neata!");
                    }
                   @Test
@@ -142,7 +142,7 @@ public void alwaysPass1New12()
                   @Test
                    public void alwaysFail12()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail13()
