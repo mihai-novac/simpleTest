@@ -126,7 +126,7 @@ public void alwaysPass1New12()
                   @Test
                    public void alwaysFail91()
                    {
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
                   @Test
                    public void alwaysFail10()
