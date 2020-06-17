@@ -45,7 +45,7 @@ public void alwaysPass1New12()
                    @Test
                     public void alwaysPass2()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                         System.out.println("proba9");
                     }
                    @Test  
