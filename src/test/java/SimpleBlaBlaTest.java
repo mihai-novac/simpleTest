@@ -18,7 +18,7 @@ import java.util.Random;
                    public void alwaysPass1()
                    {
 
-                       Assert.assertEquals(a, 2);
+                       Assert.assertEquals(a, 1);
                        Assert.assertEquals(1, 1);
                    }
 			
@@ -34,7 +34,7 @@ import java.util.Random;
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                 
 public void alwaysPass1New12()
@@ -152,7 +152,7 @@ public void alwaysPass1New12()
                     @Test
                     public void alwaysFailE()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("Neata2!");
                     }
                   
