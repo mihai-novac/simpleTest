@@ -27,14 +27,14 @@ import java.util.Random;
                    public void alwaysPass1New()
                    {
                     
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 1);
                    }
 			
 		   @Test  
                    public void alwaysPass1New1()
                    {
                     
-                       Assert.assertEquals(1, 1);
+                       Assert.assertEquals(1, 2);
                    }
                 
 public void alwaysPass1New12()
