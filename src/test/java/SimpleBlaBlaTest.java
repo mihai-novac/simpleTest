@@ -57,7 +57,7 @@ public void alwaysPass1New12()
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
 
                     @Test
