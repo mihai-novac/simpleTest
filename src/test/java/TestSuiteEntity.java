@@ -42,4 +42,9 @@ public class TestSuiteEntity {
     {
         Assert.assertEquals(1, 1);
     }
+    @Test
+    public void alwaysFail8()
+    {
+        Assert.assertEquals(1, 2);
+    }
 }
