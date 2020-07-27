@@ -55,7 +55,7 @@ public class TestSuiteEntity {
      @Test
     public void alwaysFail10()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 3);
     }
      @Test
     public void alwaysFail11()
