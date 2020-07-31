@@ -5,12 +5,12 @@ public class TestSuiteEntity {
     @Test
     public void alwaysFail()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysFail1()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysFail2()
@@ -50,7 +50,7 @@ public class TestSuiteEntity {
     @Test
     public void alwaysFail9()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
      @Test
     public void alwaysFail10()
@@ -65,11 +65,11 @@ public class TestSuiteEntity {
      @Test
     public void alwaysFail12()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysFail13()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
 }
