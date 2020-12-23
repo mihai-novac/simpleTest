@@ -58,7 +58,7 @@ import java.util.Random;
                     @Test
                     public void alwaysPassD()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
 
                     @Test
@@ -153,7 +153,7 @@ import java.util.Random;
                     @Test
                     public void alwaysFailE()
                     {
-                        Assert.assertEquals(1, 2);
+                        Assert.assertEquals(1, 1);
                         System.out.println("Neata2!");
                     }
                   
