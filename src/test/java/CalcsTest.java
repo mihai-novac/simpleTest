@@ -10,7 +10,7 @@ public class CalcsTest {
     @Test
     public void alwaysFail1()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysFail2()
@@ -19,6 +19,11 @@ public class CalcsTest {
     }
      @Test
     public void ESInProgress()
+    {
+        Assert.assertEquals(1, 1);
+    }
+      @Test
+    public void testestestestest()
     {
         Assert.assertEquals(1, 2);
     }
