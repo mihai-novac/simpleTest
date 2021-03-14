@@ -19,7 +19,7 @@ import java.util.Random;
                    {
 
                        Assert.assertEquals(a, 2);
-                       Assert.assertEquals(1, 2);
+                       Assert.assertEquals(1, 3);
                    }
 			
 		
