@@ -87,7 +87,7 @@ import java.util.Random;
                     @Test
                     public void alwaysPassH()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                         System.out.println("proba8kodojoso");
 
 
