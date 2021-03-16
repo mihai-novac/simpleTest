@@ -113,7 +113,7 @@ import java.util.Random;
                     @Test
                     public void alwaysPassC()
                     {
-                        Assert.assertEquals(1, 1);
+                        Assert.assertEquals(1, 2);
                     }
                   @Test
                     public void alwaysPass7()
