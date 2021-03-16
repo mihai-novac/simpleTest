@@ -64,8 +64,7 @@ import java.util.Random;
                     @Test
                     public void alwaysPass4()
                     {
-                        Assert.assertEquals(1, 1
-					   );
+                        Assert.assertEquals(1, 5);
                     }
                     @Test
                     public void alwaysPassA()
