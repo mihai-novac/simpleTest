@@ -72,4 +72,14 @@ public class TestSuiteEntity {
     {
         Assert.assertEquals(1, 2);
     }
+     @Test
+    public void alwaysFail14()
+    {
+        Assert.assertEquals(1, 2);
+    }
+     @Test
+    public void alwaysFail15()
+    {
+        Assert.assertEquals(1, 1);
+    }
 }
