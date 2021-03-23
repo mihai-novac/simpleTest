@@ -27,7 +27,7 @@ import java.util.Random;
                    public void alwaysPass1New()
                    {
                     
-                       Assert.assertEquals(1, 3);
+                       Assert.assertEquals(1, 4);
                    }
 			
 		   @Test  
