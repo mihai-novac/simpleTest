@@ -30,7 +30,7 @@ public class TestSuiteEntity {
     @Test
     public void alwaysFail5()
     {
-        Assert.assertEquals(1, 2); 
+        Assert.assertEquals(1, 3); 
     }
     @Test
     public void alwaysFail6()
