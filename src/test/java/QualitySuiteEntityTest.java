@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class QualitySuiteEntity {
+public class QualitySuiteEntityTest {
     @Test
     public void alwaysFail()
     {
