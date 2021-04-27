@@ -9,7 +9,7 @@ import java.util.Random;
                 /**  
                  * Created by dshmaya on 15/11/2017 ...04
                 */  
-                public class ModifiedNameTest{
+                public class These-ModifiedNameTest{
                     private int a = 1;
                     private int b =1;
                  
