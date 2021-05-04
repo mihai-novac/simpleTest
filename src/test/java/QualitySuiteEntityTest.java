@@ -82,10 +82,12 @@ public class QualitySuiteEntityTest {
     {
         Assert.assertEquals(1, 1);
     }
+    @Test
     public void alwaysFail16()
     {
         Assert.assertEquals(1, 2);
     }
+    @Test
     public void alwaysFail17()
     {
         Assert.assertEquals(1, 2);
