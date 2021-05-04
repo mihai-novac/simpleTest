@@ -70,16 +70,20 @@ public class QualitySuiteEntityTest {
     @Test
     public void alwaysFail13()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
      @Test
     public void alwaysFail14()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
      @Test
     public void alwaysFail15()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
+    }
+    public void alwaysFail16()
+    {
+        Assert.assertEquals(1, 1);
     }
 }
