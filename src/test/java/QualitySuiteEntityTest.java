@@ -86,4 +86,8 @@ public class QualitySuiteEntityTest {
     {
         Assert.assertEquals(1, 1);
     }
+    public void alwaysFail17()
+    {
+        Assert.assertEquals(1, 2);
+    }
 }
