@@ -27,4 +27,8 @@ public class CalcsTest {
     {
         Assert.assertEquals(1, 1);
     }
+    @Test
+	public void sum_test_A() {
+		assertEquals(3, Calcs.sum(1,5));
+	}
 }
