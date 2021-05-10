@@ -29,6 +29,6 @@ public class CalcsTest {
     }
     @Test
 	public void sum_test_A() {
-		assertEquals(3, Calcs.sum(1,5));
+		assertEquals(3, VerifyDefect.sum(1,2));
 	}
 }
