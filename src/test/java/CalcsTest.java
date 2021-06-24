@@ -10,7 +10,7 @@ public class CalcsTest {
     @Test
     public void alwaysFail1()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 3);
     }
     @Test
     public void alwaysFail2()
