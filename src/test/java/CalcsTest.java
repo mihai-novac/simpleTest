@@ -5,7 +5,7 @@ public class CalcsTest {
     @Test
     public void alwaysFail()
     {
-        Assert.assertEquals(1, 1);
+        Assert.assertEquals(1, 2);
     }
     @Test
     public void alwaysFail1()
@@ -25,7 +25,7 @@ public class CalcsTest {
       @Test
     public void testestestestest()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
 	public void sum_test_A() {
