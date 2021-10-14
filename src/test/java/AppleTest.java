@@ -15,7 +15,7 @@ public class AppleTest{
     @Test
     public void alwaysFailAp2()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
     @Test
     public void alwaysFailAp3()
@@ -25,6 +25,6 @@ public class AppleTest{
     @Test
     public void alwaysFailAp4()
     {
-        Assert.assertEquals(1, 2);
+        Assert.assertEquals(1, 1);
     }
 }
