@@ -13,11 +13,6 @@ public class AppleTest{
         Assert.assertEquals(1, 2);
     }
     @Test
-    public void alwaysFailAp2()
-    {
-        Assert.assertEquals(1, 2);
-    }
-    @Test
     public void alwaysFailAp3()
     {
         Assert.assertEquals(1, 1);
