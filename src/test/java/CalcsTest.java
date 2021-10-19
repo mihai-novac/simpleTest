@@ -23,7 +23,7 @@ public class CalcsTest {
      }
 
     @Test
-    public void testestestestesttest() {
+    public void testestestestesttesttest() {
         Assert.assertEquals(1, 1);
     }
 
