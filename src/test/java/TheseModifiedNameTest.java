@@ -133,7 +133,7 @@ import java.util.Random;
                    public void alwaysFail10()
                    {
                        Assert.assertEquals(1, 1);
-                       System.out.println("Neata!");
+                       System.out.println("Neata2!");
                    }
                   @Test
                    public void alwaysFail11()
